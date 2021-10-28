@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T18:17:26.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="R5r2MsiIp1Sb5k0d-W0h" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T18:49:12.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ERUfhXKj4IVHozfbexBO" version="15.6.1" type="github">
   <diagram id="aWN2_hrEo8ISZSFTe9Gg" name="Page-1">
-    <mxGraphModel dx="1185" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bK-vnuDomVhtHf4gEDlh-1" value="&lt;font style=&quot;font-size: 28px&quot;&gt;HERMEZ DELIVERY SERVICE&lt;br&gt;(Prototype 1)&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="210" y="20" width="425" height="740" as="geometry" />
+          <mxGeometry x="210" y="20" width="425" height="780" as="geometry" />
         </mxCell>
         <mxCell id="bK-vnuDomVhtHf4gEDlh-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Login and Register One&#39;s Own Account&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="353" y="100" width="145" height="70" as="geometry" />
@@ -37,6 +37,9 @@
         <mxCell id="bK-vnuDomVhtHf4gEDlh-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Enter Own Coordinates for Order Delivery&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="353" y="355" width="145" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="4sh6HON278I6QvHmTHBu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bK-vnuDomVhtHf4gEDlh-18" target="4sh6HON278I6QvHmTHBu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bK-vnuDomVhtHf4gEDlh-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Order Products&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="353" y="435" width="145" height="70" as="geometry" />
         </mxCell>
@@ -50,10 +53,10 @@
           <mxGeometry x="710" y="420" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4sh6HON278I6QvHmTHBu-2" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Confirm Order Receipt Manually&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="530" width="145" height="70" as="geometry" />
+          <mxGeometry x="353" y="620" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4sh6HON278I6QvHmTHBu-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Enter User Coordinates Manually to Drone&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="620" width="145" height="70" as="geometry" />
+          <mxGeometry x="353" y="700" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4sh6HON278I6QvHmTHBu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4sh6HON278I6QvHmTHBu-6" target="bK-vnuDomVhtHf4gEDlh-16">
           <mxGeometry relative="1" as="geometry" />
@@ -63,6 +66,9 @@
         </mxCell>
         <mxCell id="4sh6HON278I6QvHmTHBu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bK-vnuDomVhtHf4gEDlh-18" target="bK-vnuDomVhtHf4gEDlh-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4sh6HON278I6QvHmTHBu-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;View Order Receipt&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="515" width="145" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
